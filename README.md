@@ -1,9 +1,9 @@
 # react-cheat-sheet
 
-npx create-react-app my-app --no-git
-rm -rf .git
+-npx create-react-app my-app --no-git
+-rm -rf .git
 
-Example directory structure for a Flask API and a React app:
+# Example directory structure for a Flask API and a React app:
 
 my-app/
 ├── node_modules/
